@@ -1,0 +1,45 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.info-text {
+  text-align: center;
+}
+mat-card {
+  width: 250px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  /* box-shadow: 0 4px 8px 0 rgba(92, 88, 88, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  /* background-color:#c2c2ef ; */
+  padding: 10px;
+
+}
+
+mat-card:hover {
+  opacity: 0.8;
+  /* background-color:rebeccapurple; */
+
+}
+mat-card-title{
+  padding-bottom: 1rem;
+}
+
+.post-image {
+  margin: 10px 10px 10px 10px;
+}
+
+.post-image img {
+ width: 230px;
+}
+
+/* .post-image img:hover {
+  opacity: 0.5;
+} */
+
+
